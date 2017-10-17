@@ -1,6 +1,6 @@
 # hello-world
-My nickname is InfernalMonitor.
-Please, don't google it - there is a 99% chance that you'll hate me.
+My name is Kirill Leo Savelyev. 
+Talking with me may hurt your mind, but also it hurts mine.
 Well, that's not a big problem...
 I am here to learn how to code and make/organise projects.
 Why? Because I:
